@@ -1,0 +1,29 @@
+{
+  "name": "localview",
+  "version": "1.0.0",
+  "description": "Simple panorama viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamyil/LocalView.git"
+  },
+  "keywords": [
+    "local",
+    "view"
+  ],
+  "author": "Kamil \"Kamyil\" Bugajak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamyil/LocalView/issues"
+  },
+  "homepage": "https://github.com/Kamyil/LocalView#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
