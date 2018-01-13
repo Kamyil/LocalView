@@ -10,7 +10,7 @@ pannellum.viewer('panorama', {
             "pitch": -12,
             "yaw": 170,
             "type": "info",
-            "text": "This is Jordan Pond, located in Acadia National Park."
+            "text": "Jakiś tam piach."
         },
         {
             "pitch": -10,
@@ -23,7 +23,7 @@ pannellum.viewer('panorama', {
             "pitch": 0,
             "yaw": -60,
             "type": "scene",
-            "text": "Jakieś tam odległe miejsce do przeniesienia się. Po kliknięciu w nie powinno się otworzyc kolejne zdjęcie panoramiczne (które mam nadzieje ze je dostane btw. bo bez nich nie zrobię hotspotów",
+            "text": "Jakieś tam odległe miejsce do przeniesienia się. Po kliknięciu w nie powinno się otworzyc kolejne zdjęcie panoramiczne, ale z racji budzetu pokroju serialu Korony Krolów, otworzy ci po prostu te samo zdjecie co to teraz",
             "sceneId": "pond"
         }
     ]
